@@ -25,11 +25,4 @@ This will process the data in neo4j and output 3 csv reports in the current work
 ![Demo](images/demo.gif)
 
 ## Documentation
-All documentation can be found in the [wiki](https://github.com/idnahacks/GoodHound/wiki)
-
-## Acknowledgments
-- The [py2neo](https://py2neo.org) project which makes this possible.
-- The [PlumHound](https://github.com/PlumHound/PlumHound) project which gave me the idea of creating something similar which suited my needs.
-- The [aclpwn](https://github.com/fox-it/aclpwn.py) for the idea around exploit cost.
-- The [Bloodhound Gang Slack channel](https://bloodhoundhq.slack.com) for Cypher help.
-- The [BloodHound project](https://bloodhound.readthedocs.io/en/latest/index.html) for changing the world and for continuing their support for the Open-Source community even when having a commercial offering.
+All docs can be found in the [wiki](https://github.com/idnahacks/GoodHound/wiki)
